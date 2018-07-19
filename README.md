@@ -11,4 +11,4 @@ The kit provides a simple way to make static mockups that look like pages on GOV
 _The GDS Transport font files are licensed for use on the www.gov.uk, *.service.gov.uk and *.blog.gov.uk domains only. For services publicly available on different domains, use an alternative font like Arial._
 
 ## Licence
-Unless stated otherwise, this codebase is released under the MIT License. This covers both the codebase and any sample code in the documentation.
+Unless otherwise stated, this codebase is released under the [MIT License](https://github.com/whatterz/govuk-sketch-design-kit/blob/master/LICENSE). This covers both the codebase and any sample code in the documentation.
